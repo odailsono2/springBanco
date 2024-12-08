@@ -1,0 +1,213 @@
+The disableGPU setting is set to undefined
+Not disabling GPU
+Main: Starting cleanup of stale files
+Gtk-Message: 09:26:43.326: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 09:26:43.343: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:26:43.344: Failed to load module "canberra-gtk-module"
+Main: Cleanup of stale files completed
+Main~createDefaultWorkingDir - Default working dir creation already attempted
+[15226:1205/092643.363820:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15226:1205/092643.363902:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15226:1205/092643.363928:ERROR:gl_display.cc(786)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[15226:1205/092643.364031:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15226:1205/092643.364060:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15226:1205/092643.364086:ERROR:gl_display.cc(786)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[15226:1205/092643.364111:ERROR:gl_display.cc(820)] Initialization of all EGL display types failed.
+[15226:1205/092643.364139:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[15226:1205/092643.364949:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15226:1205/092643.365008:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15226:1205/092643.365032:ERROR:gl_display.cc(786)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[15226:1205/092643.365105:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15226:1205/092643.365130:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15226:1205/092643.365154:ERROR:gl_display.cc(786)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[15226:1205/092643.365179:ERROR:gl_display.cc(820)] Initialization of all EGL display types failed.
+[15226:1205/092643.365203:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[15226:1205/092643.366031:ERROR:viz_main_impl.cc(196)] Exiting GPU process due to errors during initialization
+[15247:1205/092643.379766:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+1733401603379 main info "Booting Postman 11.21.0, linux-6.8.0-49-generic on x64"
+[15247:1205/092643.379867:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15247:1205/092643.379895:ERROR:gl_display.cc(786)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[15247:1205/092643.379981:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15247:1205/092643.380013:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15247:1205/092643.380035:ERROR:gl_display.cc(786)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[15247:1205/092643.380057:ERROR:gl_display.cc(820)] Initialization of all EGL display types failed.
+[15247:1205/092643.380080:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+1733401603380 main info "EventBus~initialize - Success"
+[15247:1205/092643.380854:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15247:1205/092643.380897:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15247:1205/092643.380919:ERROR:gl_display.cc(786)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[15247:1205/092643.380981:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15247:1205/092643.381009:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15247:1205/092643.381030:ERROR:gl_display.cc(786)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[15247:1205/092643.381050:ERROR:gl_display.cc(820)] Initialization of all EGL display types failed.
+[15247:1205/092643.381070:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[15247:1205/092643.381745:ERROR:viz_main_impl.cc(196)] Exiting GPU process due to errors during initialization
+1733401603404 main info "Proxy configuration has not been setup"
+1733401603404 main info "CloudProxyManager~init - Success"
+[15264:1205/092643.412996:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15264:1205/092643.413083:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15264:1205/092643.413106:ERROR:gl_display.cc(786)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[15264:1205/092643.413195:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15264:1205/092643.413233:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15264:1205/092643.413255:ERROR:gl_display.cc(786)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[15264:1205/092643.413276:ERROR:gl_display.cc(820)] Initialization of all EGL display types failed.
+[15264:1205/092643.413299:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[15264:1205/092643.414063:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15264:1205/092643.414103:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15264:1205/092643.414124:ERROR:gl_display.cc(786)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[15264:1205/092643.414179:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15264:1205/092643.414204:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15264:1205/092643.414224:ERROR:gl_display.cc(786)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[15264:1205/092643.414243:ERROR:gl_display.cc(820)] Initialization of all EGL display types failed.
+[15264:1205/092643.414263:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[15264:1205/092643.414935:ERROR:viz_main_impl.cc(196)] Exiting GPU process due to errors during initialization
+1733401603435 main info "performShellDataMigration: Migration has already been done. Bailing out"
+1733401603439 main info "UpdateHandler~init - Success"
+[15271:1205/092643.439850:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15271:1205/092643.439921:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15271:1205/092643.439951:ERROR:gl_display.cc(786)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[15271:1205/092643.440057:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15271:1205/092643.440090:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15271:1205/092643.440129:ERROR:gl_display.cc(786)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[15271:1205/092643.440156:ERROR:gl_display.cc(820)] Initialization of all EGL display types failed.
+[15271:1205/092643.440185:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+1733401603440 main info "LeaderSelection: Initialized successfully"
+[15271:1205/092643.440964:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15271:1205/092643.441028:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15271:1205/092643.441055:ERROR:gl_display.cc(786)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[15271:1205/092643.441129:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15271:1205/092643.441159:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15271:1205/092643.441185:ERROR:gl_display.cc(786)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[15271:1205/092643.441211:ERROR:gl_display.cc(820)] Initialization of all EGL display types failed.
+[15271:1205/092643.441237:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+1733401603441 main info "VersionDependencyService: Initialized successfully"
+[15271:1205/092643.441892:ERROR:viz_main_impl.cc(196)] Exiting GPU process due to errors during initialization
+1733401603447 main info "GPU detected VID 0 DID 0 ACTIVE false"
+1733401603448 main info "shellController~init: Success"
+1733401603448 main info "shellMeta~init: Success"
+1733401603448 main info "partitionMigrationService: State of V7 partition:"
+1733401603448 main info "partitionMigrationService: V7 partitions",[]
+1733401603448 main info "partitionMigrationService~rectifyNamespaceOfScratchPadPartition: There is no partition with scratchpad namespace"
+1733401603448 main info "partitionMigrationService~rectifyNamespaceOfScratchPadPartition: There is no transit partition which could have been used for scratchpad"
+1733401603448 main info "partitionMigrationService~init: Success"
+1733401603449 main info "partitionMigrationService~runV8PartitionsIntegrity: Two way migration~ removing the following partitions from v8",[]
+1733401603449 main info "userPartitionService~getRecentV8UserPartition: recent v8 user context partition ","ea5517b8-ba1c-437f-bbc7-fe3ae784d4e9"
+1733401603449 main info "userPartitionService~_rectifyTheActivePartitionOfApplication: Setting the active partition to ","ea5517b8-ba1c-437f-bbc7-fe3ae784d4e9"
+1733401603451 main info "LinuxAutoUpdater~Cleanup - Initial cleanup successful"
+1733401603455 main info "newAccountRegionPreferenceService~getPreferenceWithFallback - Preference not found in storage."
+1733401603455 main info "newAccountRegionPreferenceService~getToggleMenuTemplate - Using preference:","useUSRegion"
+[15278:1205/092643.457568:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15278:1205/092643.457631:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15278:1205/092643.457666:ERROR:gl_display.cc(786)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[15278:1205/092643.457748:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15278:1205/092643.457786:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15278:1205/092643.457813:ERROR:gl_display.cc(786)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[15278:1205/092643.457835:ERROR:gl_display.cc(820)] Initialization of all EGL display types failed.
+[15278:1205/092643.457857:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[15278:1205/092643.458643:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15278:1205/092643.458700:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15278:1205/092643.458718:ERROR:gl_display.cc(786)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[15278:1205/092643.458774:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15278:1205/092643.458796:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15278:1205/092643.458813:ERROR:gl_display.cc(786)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[15278:1205/092643.458831:ERROR:gl_display.cc(820)] Initialization of all EGL display types failed.
+[15278:1205/092643.458849:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[15278:1205/092643.459476:ERROR:viz_main_impl.cc(196)] Exiting GPU process due to errors during initialization
+1733401603460 main info "userPartitionService~init: Success"
+1733401603469 main info "userPartitionService: State of v8 partition system:"
+1733401603469 main info "shell~init~getPartitionToLoad: loading active partition"
+1733401603469 main info "userPartitionService: List of partitions:",[{"partitionId":"ea5517b8-ba1c-437f-bbc7-fe3ae784d4e9","namespace":"users","userId":"31853681","teamId":"0","lastUpdated":"2024-12-03T15:01:38.621Z"},{"partitionId":"a126f19b-475c-432c-b16f-cd8c8181f061","namespace":"scratchPad","userId":0,"teamId":0,"isDirty":false}]
+1733401603469 main info "userPartitionService: users global meta:",{}
+1733401603470 main info "Main:windowManager~newRequesterWindow: Fetch and update runtime config: us"
+[15285:1205/092643.470130:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15285:1205/092643.470203:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15285:1205/092643.470249:ERROR:gl_display.cc(786)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[15285:1205/092643.470351:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15285:1205/092643.470384:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15285:1205/092643.470406:ERROR:gl_display.cc(786)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[15285:1205/092643.470427:ERROR:gl_display.cc(820)] Initialization of all EGL display types failed.
+[15285:1205/092643.470454:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[15285:1205/092643.471246:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15285:1205/092643.471292:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15285:1205/092643.471316:ERROR:gl_display.cc(786)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[15285:1205/092643.471375:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15285:1205/092643.471401:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15285:1205/092643.471421:ERROR:gl_display.cc(786)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[15285:1205/092643.471441:ERROR:gl_display.cc(820)] Initialization of all EGL display types failed.
+[15285:1205/092643.471460:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[15285:1205/092643.472112:ERROR:viz_main_impl.cc(196)] Exiting GPU process due to errors during initialization
+[15294:1205/092643.506570:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15294:1205/092643.506674:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15294:1205/092643.506700:ERROR:gl_display.cc(786)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[15294:1205/092643.506800:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15294:1205/092643.506831:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15294:1205/092643.506870:ERROR:gl_display.cc(786)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[15294:1205/092643.506896:ERROR:gl_display.cc(820)] Initialization of all EGL display types failed.
+[15294:1205/092643.506923:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[15294:1205/092643.508031:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15294:1205/092643.508075:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15294:1205/092643.508099:ERROR:gl_display.cc(786)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[15294:1205/092643.508174:ERROR:angle_platform_impl.cc(44)] Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1052 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15294:1205/092643.508205:ERROR:gl_display.cc(515)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[15294:1205/092643.508228:ERROR:gl_display.cc(786)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[15294:1205/092643.508252:ERROR:gl_display.cc(820)] Initialization of all EGL display types failed.
+[15294:1205/092643.508274:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[15294:1205/092643.509684:ERROR:viz_main_impl.cc(196)] Exiting GPU process due to errors during initialization
+MESA-LOADER: failed to open iris (search paths /snap/postman/294/usr/lib/x86_64-linux-gnu/dri)
+failed to load driver: iris
+MESA-LOADER: failed to open kms_swrast (search paths /snap/postman/294/usr/lib/x86_64-linux-gnu/dri)
+failed to load driver: kms_swrast
+MESA-LOADER: failed to open swrast (search paths /snap/postman/294/usr/lib/x86_64-linux-gnu/dri)
+failed to load swrast driver
+1733401604160 main info "Main~getRemoteInitPath:: "
+1733401604200 main info "INTERCEPTOR CONNECTIVITY: Connecting to Interceptor Bridge"
+1733401604208 main info "windowManager: First requester booted successfully."
+1733401604208 main info "windowManager~restoreWindows: Restoring requester windows"
+1733401604208 main info "Main~AppEvents - Received booted event for process requester.Version 11.21.0 UI Version: 11.21.0-ui-241119-0633 Desktop Platform Version: 11.21.0"
+1733401604265 main info "Main~getRemoteInitPath:: "
+1733401604544 main info "INTERCEPTOR CONNECTIVITY: Attempting to start websocket server on port 15611"
+1733401604941 main info "Main~getPlatformLaunchPerfMetrics"
+1733401605293 main info "Main - model-events~user - (user, bootstrapUser) received"
+1733401605293 main info "model-events~user - bootstrapUser received"
+1733401606528 main info "RuntimeIPCAgent~started: Success"
+** Message: 09:26:46.848: Remote error from secret service: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.226" (uid=1000 pid=15115 comm="/snap/postman/294/usr/share/postman/postman --no-s" label="snap.postman.postman (enforce)") interface="org.freedesktop.Secret.Service" member="OpenSession" error name="(unset)" requested_reply="0" destination=":1.4" (uid=1000 pid=2775 comm="/usr/bin/gnome-keyring-daemon --foreground --compo" label="unconfined")
+1733401606849 main error "Error while retrieving user key from keychain",{"name":"Error","message":"An AppArmor policy prevents this sender from sending this message to this recipient; type=\"method_call\", sender=\":1.226\" (uid=1000 pid=15115 comm=\"/snap/postman/294/usr/share/postman/postman --no-s\" label=\"snap.postman.postman (enforce)\") interface=\"org.freedesktop.Secret.Service\" member=\"OpenSession\" error name=\"(unset)\" requested_reply=\"0\" destination=\":1.4\" (uid=1000 pid=2775 comm=\"/usr/bin/gnome-keyring-daemon --foreground --compo\" label=\"unconfined\")","stack":"Error: An AppArmor policy prevents this sender from sending this message to this recipient; type=\"method_call\", sender=\":1.226\" (uid=1000 pid=15115 comm=\"/snap/postman/294/usr/share/postman/postman --no-s\" label=\"snap.postman.postman (enforce)\") interface=\"org.freedesktop.Secret.Service\" member=\"OpenSession\" error name=\"(unset)\" requested_reply=\"0\" destination=\":1.4\" (uid=1000 pid=2775 comm=\"/usr/bin/gnome-keyring-daemon --foreground --compo\" label=\"unconfined\")"}
+Error occurred in handler for 'vault-ipc': [Error: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.226" (uid=1000 pid=15115 comm="/snap/postman/294/usr/share/postman/postman --no-s" label="snap.postman.postman (enforce)") interface="org.freedesktop.Secret.Service" member="OpenSession" error name="(unset)" requested_reply="0" destination=":1.4" (uid=1000 pid=2775 comm="/usr/bin/gnome-keyring-daemon --foreground --compo" label="unconfined")]
+Warning: vkCreateInstance: Found no drivers!
+Warning: vkCreateInstance failed with VK_ERROR_INCOMPATIBLE_DRIVER
+    at CheckVkSuccessImpl (../../../../src/third_party/dawn/src/dawn/native/vulkan/VulkanError.cpp:101)
+    at CreateVkInstance (../../../../src/third_party/dawn/src/dawn/native/vulkan/BackendVk.cpp:493)
+    at Initialize (../../../../src/third_party/dawn/src/dawn/native/vulkan/BackendVk.cpp:379)
+    at Create (../../../../src/third_party/dawn/src/dawn/native/vulkan/BackendVk.cpp:301)
+    at operator() (../../../../src/third_party/dawn/src/dawn/native/vulkan/BackendVk.cpp:556)
+
+1733431806472 main info "WindowManager~closeHandler - Closed Window (id: 1 )"
+1733431806489 main info "Quitting app"
