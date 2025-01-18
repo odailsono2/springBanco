@@ -29,7 +29,6 @@ public class SecurityConfig {
                 .requestMatchers("/banco/admin/**").hasAuthority("ROLE_ADMIN") // Apenas ADMIN
                 .requestMatchers("/banco/private/**").hasRole("USER") // Apenas USER
                 .requestMatchers("/login", "/logout", "/error").permitAll() 
-                // .requestMatchers("/banco/login", "/banco/logout").permitAll() // Permite acesso ao login e logout
             );
     
         return http.build();
